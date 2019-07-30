@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to change styles for a hyperlink column
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2661)**
+**[[Run Online]](https://codecentral.devexpress.com/e2661/)**
 <!-- run online end -->
 
 
